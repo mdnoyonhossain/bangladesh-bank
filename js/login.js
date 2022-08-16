@@ -16,7 +16,7 @@ document.getElementById('submit-btn').addEventListener('click', function () {
 
     // DANGER: DO NOT VERFY email password to the client side
     // Step-4: verfy email and password
-    if (email === "noyonhossain560@gmail.com" && password === "secrete") {
+    if (email === "noyonhossain560@gmail.com" && password === "noyonhossain560") {
         window.location.href = "bank.html";
     }
     else {
